@@ -120,4 +120,17 @@ streamlit run app.py
 
 ---
 
-### 🌟 If you find this useful, give it a ⭐ on GitHub!
+### ScreenShot
+
+# Train Model
+<img width="1146" height="599" alt="Screenshot 2025-10-29 143222" src="https://github.com/user-attachments/assets/094e6679-bb05-4742-9137-4c6b24ab18ab" />
+
+# Output
+<img width="970" height="773" alt="Screenshot 2025-10-29 142632" src="https://github.com/user-attachments/assets/90446e83-8125-4a82-92f3-d9b40d1a4f0e" />
+<img width="972" height="710" alt="Screenshot 2025-10-29 143137" src="https://github.com/user-attachments/assets/350c0a7b-cbbf-470a-8f88-578069071230" />
+
+
+
+
+
+
